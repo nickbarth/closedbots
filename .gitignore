@@ -1,0 +1,29 @@
+# Build output
+/bin/
+/closedbots
+
+# Runtime artifacts
+/runs/
+*.log
+*.jsonl
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.bmp
+*.gif
+*.log
+
+# Coverage artifacts
+*.md
+*.out
+*.prof
+*.coverprofile
+coverage.*
+
+# OS and editor noise
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
