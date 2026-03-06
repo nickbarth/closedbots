@@ -1,4 +1,4 @@
-# Closed Bots
+# ClosedBots ⛔🤖 
 
 <img width="1108" height="681" alt="image" src="https://github.com/user-attachments/assets/a8f162a4-decb-4c65-9809-96ec6d5b79cb" />
 
