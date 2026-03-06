@@ -13,7 +13,7 @@ It manages "tasks" defined as markdown files with a summary and steps. You can e
 from the summary using an LLM runner.
 
 When you run a task, the app executes each step sequentially using the selected runner. It captures screenshots before
-and after each step, logs progress, and allows you to stop execution with a global hotkey.
+and after each step, logs progress, and allows you to stop execution with a global hotkey. Your choses LLM will process the screenshots.
 
 ## Features
 
